@@ -1,6 +1,6 @@
 # password-generator
 
-This is a password generator
+This is a password generator that includes a button to generate a password and a button to copy the password to the clipboard. THe user gets to choose how long the password is and the type of characters that are used.
 
 ![This password generator includes a button to generate a password and a button to copy the password to the clipboard. THe user gets to choose how long the password is and the type of characters that are used.](./assets/demo/screenshot.png)
 
